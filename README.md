@@ -1,13 +1,13 @@
 # git-pracrice
-dfjdfshjkfjksd
+## my practice
 
-fd
-sf
+- 깃허브 연습이에요
 
-D
-D
+[][1][][][][x1] []
 
-s12qwertyu
-weeqert
-wertfgh
-fghj
+
+> >> sdasef >>>dffdsdgf >>>>> sdf
+> 
++ sdfgh
+
+
